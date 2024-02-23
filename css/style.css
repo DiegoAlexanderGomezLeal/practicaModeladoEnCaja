@@ -1,0 +1,65 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+.container{
+   display: flex;
+   flex-direction: row-reverse;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: auto;
+}
+img{
+   width: 125px;
+   height: auto;
+   margin-bottom: 20px;
+}
+
+
+.header{
+   margin-bottom: 20px;
+   margin-left: 50px;
+}
+
+
+.header .menu a{
+   font-size: 12px;
+   margin: 10px 10px;
+   color: #8B8B8B;
+   text-decoration: none;
+}
+
+
+.derecha{
+   display: flex;
+   flex-direction: row; 
+   justify-content: space-around;
+   width: auto;
+   margin-bottom: 20px;
+   margin-left: 50px;
+}
+
+
+
+.derecha button{
+   flex-direction: row;
+   padding: 10px 10px;
+   margin: 4px;
+   text-align: center;
+   font-size: 11px;
+   color: rgb(255, 255, 255);
+   background-color: #8B8B8B;
+   transition: 0.3s ;
+   border: none;
+   width: 40px;
+   height: 40px;
+}
+
+
+.derecha button:hover {
+   background-color: #ff0000;
+}
