@@ -1,0 +1,2 @@
+![](https://github.com/DiegoAlexanderGomezLeal/practicaModeladoEnCaja/blob/ejercicio_7/storage/img/enunciado.png)
+![](https://github.com/DiegoAlexanderGomezLeal/practicaModeladoEnCaja/blob/ejercicio_7/storage/img/enunciado_2.png)
